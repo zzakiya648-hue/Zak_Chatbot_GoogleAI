@@ -1,8 +1,5 @@
 # Zak_Chatbot_GoogleAI
 A google AI Chatbot using python
-# Simple Gemini Chatbot
-
-A simple, generic terminal chatbot built using Python and the Google Gemini API.
 
 ## How to Setup and Run
 
