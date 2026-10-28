@@ -10,7 +10,7 @@ A google AI Chatbot using python
    Go to [Google AI Studio](https://google.com) and generate a free API key.
 
 3. **Add your Key:**
-   Open the `chatbot.py` file and replace `"YOUR_GEMINI_API_KEY_HERE"` with your actual key string.
+   Open the `Profile_Zakiya_Chatbot.py` file and replace `"ENTER_YOUR_API_KEY_HERE"` with your actual key string.
 
 4. **Install Requirements:**
    Run the following command in your terminal to ensure you have the required web library:
